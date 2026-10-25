@@ -1,0 +1,16 @@
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\bin\Debug\net8.0-windows\WinFormsAppBinaryTree.exe
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\bin\Debug\net8.0-windows\WinFormsAppBinaryTree.deps.json
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\bin\Debug\net8.0-windows\WinFormsAppBinaryTree.runtimeconfig.json
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\bin\Debug\net8.0-windows\WinFormsAppBinaryTree.dll
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\bin\Debug\net8.0-windows\WinFormsAppBinaryTree.pdb
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.Form1.resources
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.csproj.GenerateResource.cache
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.AssemblyInfoInputs.cache
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.AssemblyInfo.cs
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.csproj.CoreCompileInputs.cache
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.dll
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\refint\WinFormsAppBinaryTree.dll
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.pdb
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\WinFormsAppBinaryTree.genruntimeconfig.cache
+D:\useful_files\university\2_curs\1_term\ASD\lab_7\WinFormsAppBinaryTree\obj\Debug\net8.0-windows\ref\WinFormsAppBinaryTree.dll
